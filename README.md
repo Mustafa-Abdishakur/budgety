@@ -1,0 +1,1 @@
+A budget app to track your income and expenses on a daily basis
